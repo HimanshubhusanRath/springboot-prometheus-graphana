@@ -5,6 +5,8 @@
 
   <img width="1185" alt="Screenshot 2023-09-24 at 5 07 13 PM" src="https://github.com/HimanshubhusanRath/springboot-prometheus-graphana/assets/40859584/8d4bf807-3574-434c-80e3-4ffe3a252759">
 
+* Check the video for details : https://www.youtube.com/watch?v=h4Sl21AKiDg
+
 
 # Configurations:
 * Spring Boot Application : 
@@ -22,6 +24,6 @@
 
 #### NOTE:
 * Both Prometheus and Grafana is containerized (docker). So, they acccess the spring boot application (runs on the host system) using the host's IP.
-* Check the video for details : https://www.youtube.com/watch?v=h4Sl21AKiDg
+
   
 
