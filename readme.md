@@ -19,4 +19,6 @@
 
 #### NOTE:
 * Both Prometheus and Grafana is containerized (docker). So, they acccess the spring boot application (runs on the host system) using the host's IP.
+* Check the video for details : https://www.youtube.com/watch?v=h4Sl21AKiDg
+  
 
